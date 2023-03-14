@@ -3,4 +3,4 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование сервиса "Яндекс.Музыка"](https://github.com/Konstantin-Vasilev/ya.practicum.projects/blob/main/ya_music.ipynb) | На реальных данных исследовать данные и сравить пользователей двух городов | `Python`, `Pandas` |
-| [Исследование оттока банка (с графиками Plotly)](https://nbviewer.org/github/Konstantin-Vasilev/ya.practicum.projects/blob/main/banks.ipynb)| На реальных данных исследовать данные клиентов банка | `Python`, `Pandas` |
+| [Банки - отток (с графиками Plotly)](https://nbviewer.org/github/Konstantin-Vasilev/ya.practicum.projects/blob/main/banks.ipynb)| Анализ клиентов банка с выделением наиболее отточных сегментов с рекомендациями по их удержанию | `Python`, `Pandas`, `Plotly`, `Seaborn`, `Scipy` |
